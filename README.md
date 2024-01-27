@@ -1,5 +1,5 @@
 # Simple_MLP_Predictor_NAS
-this repo contains predictor based NAS with NAS-Bench-101 dataset, it is just practical simple example 
+this repo contains predictor based NAS with NAS-Bench-101 dataset
 
 ## dataset.py
 dataloader of NAS-Bench-101 dataset. if you download orginal NAS-Bench-101 tfrecord file then you have to change into HDF5 file, this can be done tools/nasbench_tfrecord_converter.py   HDF5 file is faster than original tfrecord file 
